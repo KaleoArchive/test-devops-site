@@ -1,0 +1,7 @@
+baseurl = "http://kaleo.run"
+paginate = 5
+title = "DevOps"
+
+[params]
+  my_title = "DevOps"
+  version = "0.0.1"
