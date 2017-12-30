@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on DevOps</title>
+    <link>http://staging.kaleo.run/post/</link>
+    <description>Recent content in Posts on DevOps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 30 Dec 2017 16:23:26 +0800</lastBuildDate>
+    
+	<atom:link href="http://staging.kaleo.run/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unacquaintedly</title>
+      <link>http://staging.kaleo.run/post/unacquaintedly/</link>
+      <pubDate>Sat, 30 Dec 2017 16:23:26 +0800</pubDate>
+      
+      <guid>http://staging.kaleo.run/post/unacquaintedly/</guid>
+      <description>Your lucky color has faded.</description>
+    </item>
+    
+  </channel>
+</rss>
