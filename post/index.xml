@@ -5,10 +5,19 @@
     <link>http://dev.kaleo.run/post/</link>
     <description>Recent content in Posts on DevOps</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 30 Dec 2017 16:23:26 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 30 Dec 2017 16:29:00 +0800</lastBuildDate>
     
 	<atom:link href="http://dev.kaleo.run/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Marsipobranchiata</title>
+      <link>http://dev.kaleo.run/post/marsipobranchiata/</link>
+      <pubDate>Sat, 30 Dec 2017 16:29:00 +0800</pubDate>
+      
+      <guid>http://dev.kaleo.run/post/marsipobranchiata/</guid>
+      <description>The life which is unexamined is not worth living. &amp;ndash; Plato</description>
+    </item>
     
     <item>
       <title>Unacquaintedly</title>
